@@ -1,0 +1,10 @@
+sentisquare:
+  baseUrl: https://partners.sentisquare.com
+  username: <your-username>
+  password: <your-password>
+  clientId: <your-client-id>
+  clientSecret: <your-client-secret>
+  indexAlias: <your-index-alias>
+  classifier-aliases:
+    sentiment: <your-sentiment-classifier-alias>
+    topic: <your-topic-classifier-alias>
